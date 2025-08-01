@@ -96,7 +96,7 @@ const Navbar = () => {
         </li>
         <li className="w-[140px] h-[35px]">
   <a
-    href="http://localhost:5174/admin"
+    href="https://myproj-admin.onrender.com"
     target="_blank"
     rel="noopener noreferrer"
     className="flex items-center justify-center w-full h-full border border-gray-300 rounded-full text-xs font-semibold text-gray-700 hover:bg-gray-100 transition"
